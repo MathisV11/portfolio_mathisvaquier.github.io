@@ -1,0 +1,9 @@
+.background {
+    background-image: url(./Ressources/images/Placeholder.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 1080px;
+    margin: 0px;
+    display: flex;
+}
